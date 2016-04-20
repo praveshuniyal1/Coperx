@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "JdN-ga-4Uo"; */
+"JdN-ga-4Uo.text" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Button 2"; ObjectID = "jZS-pi-Agq"; */
+"jZS-pi-Agq.normalTitle" = "Button 2";
+
+/* Class = "UIButton"; normalTitle = "Start using Spotgyro!"; ObjectID = "wmk-7v-y03"; */
+"wmk-7v-y03.normalTitle" = "Start using Spotgyro!";

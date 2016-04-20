@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  Book Store
+
+  Created by Simon on 15/9/13.
+  Copyright (c) 2013 TAMIM Ziad. All rights reserved.
+*/
+
+"cancelAction" = "cancelar";
+"callAction" = "llamada";
+"athorization" = "sin athorization";
+"enable acces" = "Por favor , permitir el acceso a su ubicación";
+"Open Setting" = "Configuración abierta";
+"welcomeNote" = "Bienvenido a Spotgyro";
+"simplifed" = "Hemos simplifed la forma de ver la comida npara \ y bebidas";
+"meter" = "multitud Meter";
+"Find whats" = "Encuentra lo que es popular en \ neste momento";
+"Spot Filters" = "Filtros puntuales y ofertas personalizadas";
+"Focus on" = "Centrarse en los puntos y las ofertas que \ nno realmente se preocupan por";
+"Spotgyro Radar" = "Spotgyro Radar";
+"Keeps an" = "Mantiene un ojo ofertas instantáneas cerca, \ nso siempre irá por el bucle";
+"Showing Quick" = "Mostrando Spots bocadillo rápido
+";
+"Hiding Quick" = "Escondites bocadillo rápido
+";
+"Showing Social" = "Mostrando Spots Sociales y Aventura
+
+";
+"Hiding Social" = "Escondites Sociales y Aventura
+";
+"Showing Rockin" = "Mostrando Spots Rockin '
+";
+"Hiding Rockin" = "Escondites Rockin '
+";
+"Showing Instant" = "Mostrando Ofertas instantáneos
+";
+"Hiding Instant" = "Ocultación ofertas instantáneos
+";
+"CATEGORY" = "CATEGORÍA
+";
+"In and Out" = "Dentro y fuera
+";
+"Social" = "Social";
+"Nightlife" = "La vida nocturna
+";
+"HOUR" = "HORA";
+"Not available" = "No disponible
+";
+"Link to Twitter" = "Enlace a Twitter
+";
+"Unlink from Twitter" = "Desvincular de Twitter
+";
+"Link to Facebook" = "Enlace a Facebook
+";
+"Unlink from Facebook" = "Desvincular de Facebook
+";
+"Image" = "Imagen";
+"Video" = "Vídeo";
+
+
+
+
+
+

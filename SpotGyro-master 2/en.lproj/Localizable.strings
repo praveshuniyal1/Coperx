@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Book Store
+
+  Created by Simon on 15/9/13.
+  Copyright (c) 2013 TAMIM Ziad. All rights reserved.
+*/
+
+"cancelAction" = "Cancel";
+"callAction" = "Call";
+"athorization" = "No athorization";
+"enable acces" = "Please, enable access to your location";
+"Open Setting" = "Open Settings";
+"welcomeNote" = "Welcome to Spotgyro";
+"simplifed" = "We have simplifed the way you look\nfor food and drinks";
+"meter" = "Crowd Meter";
+"Find whats" = "Find what's popular at\nthis very moment";
+"Spot Filters" = "Spot Filters and Personalized Deals";
+"Focus on" = "Focus on the spots and deals that\nyou actually care about";
+"Spotgyro Radar" = "Spotgyro Radar";
+"Keeps an" = "Keeps an eye for instant deals nearby,\nso you're always in the loop";
+"Showing Quick" = "Showing Quick Snack Spots";
+"Hiding Quick" = "Hiding Quick Snack Spots";
+"Showing Social" = "Showing Social and Adventure Spots";
+"Hiding Social" = "Hiding Social and Adventure spots";
+"Showing Rockin" = "Showing Rockin' Spots";
+"Hiding Rockin" = "Hiding Rockin' Spots";
+"Showing Instant" = "Showing Instant Deals";
+"Hiding Instant" = "Hiding Instant Deals";
+"CATEGORY" = "CATEGORY";
+"In and Out" = "In and Out";
+"Social" = "Social";
+"Nightlife" = "Nightlife";
+"HOUR" = "HOUR";
+"Not available" = "Not available";
+"Link to Twitter" = "Link to Twitter";
+"Unlink from Twitter" = "Unlink from Twitter";
+"Link to Facebook" = "Link to Facebook";
+"Unlink from Facebook" = "Unlink from Facebook";
+"Image" = "Image";
+"Video" = "Video";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Helpful"; ObjectID = "5"; */
+"5.normalTitle" = "Servicial";
+
+/* Class = "UILabel"; text = "WAITING TIME"; ObjectID = "14"; */
+"14.text" = "MOODWAITING TIEMPO";
+
+/* Class = "UILabel"; text = "MOOD"; ObjectID = "15"; */
+"15.text" = "ESTADO ANIMICO";
+
+/* Class = "UILabel"; text = "Classification"; ObjectID = "16"; */
+"16.text" = "Clasificación";
+
+/* Class = "UILabel"; text = "PLACE NAME"; ObjectID = "17"; */
+"17.text" = "PONGA SU NOMBRE";
+
+/* Class = "UILabel"; text = "CROWD LEVEL"; ObjectID = "27"; */
+"27.text" = "NIVEL DE MULTITUD";
+
+/* Class = "UILabel"; text = "UPDATED"; ObjectID = "28"; */
+"28.text" = "ACTUALIZADO";
+
+/* Class = "UILabel"; text = "54"; ObjectID = "29"; */
+"29.text" = "54";
+
+/* Class = "UILabel"; text = "seconds ago"; ObjectID = "30"; */
+"30.text" = "Segundos antes";

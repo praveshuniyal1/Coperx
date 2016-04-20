@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Unlink from Twitter"; ObjectID = "0fB-Ud-8Oa"; */
+"0fB-Ud-8Oa.normalTitle" = "Desvincular de Twitter";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "6HY-Qx-YU4"; */
+"6HY-Qx-YU4.title" = "Ajustes";
+
+/* Class = "UILabel"; text = "Get nearby deals wherever you are."; ObjectID = "ASC-3A-j6G"; */
+"ASC-3A-j6G.text" = "Recibe cercanos donde se encuentre.";
+
+/* Class = "UIButton"; normalTitle = "Unlink from Facebook"; ObjectID = "FWI-Ef-Pye"; */
+"FWI-Ef-Pye.normalTitle" = "Desvincular de Facebook";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "HKd-Ex-R9X"; */
+"HKd-Ex-R9X.title" = "Hecho";
+
+/* Class = "UINavigationItem"; title = "Help"; ObjectID = "J1J-zW-lQK"; */
+"J1J-zW-lQK.title" = "Ayuda";
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "JPV-6M-lSQ"; */
+"JPV-6M-lSQ.title" = "Ajustes";
+
+/* Class = "UILabel"; text = "Map Type"; ObjectID = "MG6-S4-kNx"; */
+"MG6-S4-kNx.text" = "Tipo de mapa";
+
+/* Class = "UILabel"; text = "Your Location"; ObjectID = "clm-ml-YQ0"; */
+"clm-ml-YQ0.text" = "Tu ubicación";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "dHO-Zx-anS"; */
+"dHO-Zx-anS.normalTitle" = "Hecho";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "duW-Ml-hhA"; */
+"duW-Ml-hhA.title" = "Hecho";
+
+/* Class = "UISegmentedControl"; kBc-az-tT5.segmentTitles[0] = "Street"; ObjectID = "kBc-az-tT5"; */
+"kBc-az-tT5.segmentTitles[0]" = "Calle";
+
+/* Class = "UISegmentedControl"; kBc-az-tT5.segmentTitles[1] = "Hybrid"; ObjectID = "kBc-az-tT5"; */
+"kBc-az-tT5.segmentTitles[1]" = "Híbrido";
+
+/* Class = "UISegmentedControl"; kBc-az-tT5.segmentTitles[2] = "Satellite"; ObjectID = "kBc-az-tT5"; */
+"kBc-az-tT5.segmentTitles[2]" = "Satélite";
+
+/* Class = "UILabel"; text = "Show your whereabouts anonymously to others"; ObjectID = "nu7-Ls-LS8"; */
+"nu7-Ls-LS8.text" = "Mostrar su paradero de manera anónima a los demás";
+
+/* Class = "UILabel"; text = "Real-time Deals"; ObjectID = "uzQ-NX-SwN"; */
+"uzQ-NX-SwN.text" = "Ofertas en tiempo real";
